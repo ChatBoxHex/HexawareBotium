@@ -15,6 +15,6 @@ var config = require('./bot-to-run.json');
 	  }
 	  
 	}
- 
+
  var fileToRun = botToRun(config.bottorun);
  console.log(fileToRun);
